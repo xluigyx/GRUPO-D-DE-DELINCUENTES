@@ -1,0 +1,15 @@
+C:\Users\Usuariocc\source\repos\grupo d\bin\Debug\net6.0\grupo d.exe
+C:\Users\Usuariocc\source\repos\grupo d\bin\Debug\net6.0\grupo d.deps.json
+C:\Users\Usuariocc\source\repos\grupo d\bin\Debug\net6.0\grupo d.runtimeconfig.json
+C:\Users\Usuariocc\source\repos\grupo d\bin\Debug\net6.0\grupo d.dll
+C:\Users\Usuariocc\source\repos\grupo d\bin\Debug\net6.0\grupo d.pdb
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.csproj.AssemblyReference.cache
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.AssemblyInfoInputs.cache
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.AssemblyInfo.cs
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.csproj.CoreCompileInputs.cache
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.dll
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\refint\grupo d.dll
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.pdb
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\grupo d.genruntimeconfig.cache
+C:\Users\Usuariocc\source\repos\grupo d\obj\Debug\net6.0\ref\grupo d.dll
